@@ -1,0 +1,27 @@
+{
+  "name": "facebook-passport-auth",
+  "version": "1.0.0",
+  "description": "Implementing OAuth with PassportJS-Facebook In an ExpressJS and MongoDB App.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "OAuth",
+    "PassportJS",
+    "Facebook"
+  ],
+  "author": "Emmanuel Oaikhenan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-ensure-login": "^0.1.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.3",
+    "mongoose": "^5.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
