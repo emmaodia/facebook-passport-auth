@@ -15,9 +15,9 @@
   "author": "Emmanuel Oaikhenan",
   "license": "Apache-2.0",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "connect-ensure-login": "^0.1.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongodb": "^3.5.3",
     "mongoose": "^5.9.0"
   },
